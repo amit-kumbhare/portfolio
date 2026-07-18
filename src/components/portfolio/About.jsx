@@ -1,7 +1,7 @@
 import React, { useRef } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
 
-const PHOTO = "/images/Amit.jpg"; 
+const PHOTO = "/portfolio/images/Amit.jpg"; 
 
 const fadeUp = {
   hidden: { opacity: 0, y: 40 },
