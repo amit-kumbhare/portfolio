@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
 
-const HERO_GIF = "/videos/download4.gif";
+const HERO_GIF = "/portfolio/videos/download4.gif";
 
 export default function Hero() {
   const ref = useRef(null);
